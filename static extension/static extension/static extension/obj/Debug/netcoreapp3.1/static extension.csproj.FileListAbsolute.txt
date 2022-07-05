@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\static extension\static extension\static extension\bin\Debug\netcoreapp3.1\static extension.exe
+C:\Users\Admin\Desktop\static extension\static extension\static extension\bin\Debug\netcoreapp3.1\static extension.deps.json
+C:\Users\Admin\Desktop\static extension\static extension\static extension\bin\Debug\netcoreapp3.1\static extension.runtimeconfig.json
+C:\Users\Admin\Desktop\static extension\static extension\static extension\bin\Debug\netcoreapp3.1\static extension.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\static extension\static extension\static extension\bin\Debug\netcoreapp3.1\static extension.dll
+C:\Users\Admin\Desktop\static extension\static extension\static extension\bin\Debug\netcoreapp3.1\static extension.pdb
+C:\Users\Admin\Desktop\static extension\static extension\static extension\obj\Debug\netcoreapp3.1\static extension.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\static extension\static extension\static extension\obj\Debug\netcoreapp3.1\static extension.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\static extension\static extension\static extension\obj\Debug\netcoreapp3.1\static extension.AssemblyInfo.cs
+C:\Users\Admin\Desktop\static extension\static extension\static extension\obj\Debug\netcoreapp3.1\static extension.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\static extension\static extension\static extension\obj\Debug\netcoreapp3.1\static extension.dll
+C:\Users\Admin\Desktop\static extension\static extension\static extension\obj\Debug\netcoreapp3.1\static extension.pdb
+C:\Users\Admin\Desktop\static extension\static extension\static extension\obj\Debug\netcoreapp3.1\static extension.genruntimeconfig.cache
